@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://archit7448.github.io/csb-ri68v/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://archit7448.github.io/csb-ri68v/static/js/main.5c225b95.chunk.js",
+    "main.js.map": "https://archit7448.github.io/csb-ri68v/static/js/main.5c225b95.chunk.js.map",
+    "runtime-main.js": "https://archit7448.github.io/csb-ri68v/static/js/runtime-main.4f1869e4.js",
+    "runtime-main.js.map": "https://archit7448.github.io/csb-ri68v/static/js/runtime-main.4f1869e4.js.map",
+    "static/js/2.01c967f3.chunk.js": "https://archit7448.github.io/csb-ri68v/static/js/2.01c967f3.chunk.js",
+    "static/js/2.01c967f3.chunk.js.map": "https://archit7448.github.io/csb-ri68v/static/js/2.01c967f3.chunk.js.map",
+    "index.html": "https://archit7448.github.io/csb-ri68v/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://archit7448.github.io/csb-ri68v/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.01c967f3.chunk.js.LICENSE.txt": "https://archit7448.github.io/csb-ri68v/static/js/2.01c967f3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4f1869e4.js",
+    "static/js/2.01c967f3.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.5c225b95.chunk.js"
+  ]
+}

@@ -1,0 +1,2 @@
+(this["webpackJsonpemoji-app"]=this["webpackJsonpemoji-app"]||[]).push([[0],{10:function(e,t,n){"use strict";n.r(t);var c=n(1),i=n.n(c),r=n(3),s=n.n(r),o=(n(8),n(0));function j(){return Object(o.jsxs)("div",{className:"App",children:[Object(o.jsx)("h1",{children:"Emoji Dictionary "}),Object(o.jsx)("button",{children:"like me "})]})}var a=document.getElementById("root");s.a.render(Object(o.jsx)(i.a.StrictMode,{children:Object(o.jsx)(j,{})}),a)},8:function(e,t,n){}},[[10,1,2]]]);
+//# sourceMappingURL=main.5c225b95.chunk.js.map
